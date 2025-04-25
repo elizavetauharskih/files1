@@ -1,0 +1,18 @@
+.header {
+   background-color: red;
+}
+.footer {
+   background-color: orange;
+}
+.header .title-bar {
+  background-color: yellow;
+}
+#wrap {
+	background-color: green;
+}
+.submenumenuvertical {
+	background-color: blue;
+}
+.rowexpandedcalloutsecondary {
+	background-color: pink;
+}
